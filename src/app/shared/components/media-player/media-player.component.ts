@@ -8,7 +8,7 @@ import { TrackModel } from '@core//models/tracks.model';
 })
 export class MediaPlayerComponent implements OnInit {
 mockCover:TrackModel={
-  cover:'',
+  cover:'https://jenesaispop.com/wp-content/uploads/2009/09/guetta_onelove.jpg',
   album:'Gioli & Assia',
   name:'BEBE (oficial)',
   url:'http://localhost/track.mp3',
